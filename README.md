@@ -62,4 +62,4 @@ Databricks Free Edition (serverless) · Unity Catalog · Delta Lake · SQL · ma
 
 ## Notebook
 
-Full pipeline, including every query referenced above, is in [`notebook/wip_reconciliation.ipynb`](notebook/wip_reconciliation.ipynb). The analysis without the code is in [`writeup/findings.md`](writeup/findings.md).
+Full pipeline, including every query referenced above, is in [`notebook/wip_reconciliation.ipynb`](notebook/wip_reconciliation.ipynb). The analysis without the code is in [`Findings.md`](Findings.md).
