@@ -1,0 +1,78 @@
+project_dim_key,project_id,project_name,client_name,region,office,service_line,project_manager,billing_partner,project_status,budget_amount,start_date,effective_from,effective_to,is_current
+4030,PRJ-1026,Ironbridge Tax Advisory FY26,Ironbridge Construction,Southeast,Newark,Tax,Harper Moreau,Logan Larsen,Active,110000,2025-07-08,2025-06-01,2026-03-14,0
+4068,PRJ-921,Harborview Tax Advisory FY25,Harborview Marine,Midwest,Boston,Managed Services,Skyler Garcia,Finley Nguyen,Closed,79000,2025-12-25,2024-12-01,2025-08-28,0
+4015,PRJ-1012,Stonegate Process Redesign FY26,Stonegate Financial,West,Philadelphia,Assurance,Emerson Patel,Riley Weber,Active,283000,2025-07-16,2025-06-01,9999-12-31,1
+4024,PRJ-1021,Northwind Compliance Review FY26,Northwind Manufacturing,Northeast,New York,Advisory,Casey Tanaka,Reese Garcia,Active,123000,2025-08-26,2025-06-01,9999-12-31,1
+4048,PRJ-901,Redrock Tax Advisory FY25,Redrock Mining Services,West,Newark,Assurance,Skyler Weber,Harper Ivanov,Pending,124000,2025-02-04,2024-12-01,9999-12-31,1
+4052,PRJ-905,Trident Data Migration FY25,Trident Security,Midwest,Boston,Managed Services,Finley Kim,Quinn Garcia,Closed,182000,2025-05-20,2024-12-01,2025-07-28,0
+4076,PRJ-929,Monarch Systems Implementation FY25,Monarch Paper Co,West,Charlotte,Assurance,Emerson Garcia,Reese Moreau,Closed,43000,2025-06-19,2024-09-01,2025-12-28,0
+4050,PRJ-903,Clearwater Process Redesign FY25,Clearwater Utilities,West,Newark,Advisory,Morgan Ortiz,Emerson Nguyen,Closed,301000,2025-03-19,2024-03-01,2025-11-28,0
+4005,PRJ-1004,Halcyon Process Redesign FY26,Halcyon Health Partners,West,Newark,Assurance,Morgan Haddad,Morgan Moreau,Active,325000,2025-04-02,2025-06-01,9999-12-31,1
+4042,PRJ-1036,Redrock Process Redesign FY26,Redrock Mining Services,West,Newark,Assurance,Morgan Haddad,Skyler Larsen,Active,312000,2025-06-26,2025-06-01,9999-12-31,1
+4037,PRJ-1031,Fairhaven Cost Study FY26,Fairhaven Hospitality,Midwest,Philadelphia,Managed Services,Finley Larsen,Rowan Garcia,Active,285000,2025-09-07,2025-06-01,9999-12-31,1
+4034,PRJ-1029,Meridian Compliance Review FY26,Meridian Biotech,Northeast,Boston,Managed Services,Rowan Okafor,Quinn Ivanov,Active,40000,2025-09-24,2025-06-01,9999-12-31,1
+4057,PRJ-910,Bluepeak Compliance Review FY25,Bluepeak Logistics,Midwest,Boston,Managed Services,Morgan Costa,Morgan Haddad,On Hold,153000,2025-12-07,2024-07-01,9999-12-31,1
+4058,PRJ-911,Kestrel Tax Advisory FY25,Kestrel Aviation,Southeast,Chicago,Advisory,Rowan Garcia,Harper Costa,On Hold,110000,2025-03-09,2024-05-01,9999-12-31,1
+4028,PRJ-1024,Halcyon Valuation FY26,Halcyon Health Partners,West,Chicago,Assurance,Reese Silva,Logan Patel,Active,170000,2025-03-01,2025-06-01,9999-12-31,1
+4060,PRJ-913,Willowbrook Data Migration FY25,Willowbrook Senior Living,Northeast,Newark,Assurance,Morgan Haddad,Blake Ortiz,On Hold,286000,2025-08-07,2024-07-01,9999-12-31,1
+4066,PRJ-919,Lumen Audit FY25,Lumen Retail Co,Northeast,Philadelphia,Managed Services,Emerson Weber,Rowan Byrne,Closed,151000,2025-12-22,2024-07-01,2025-06-28,0
+4069,PRJ-922,Meridian Compliance Review FY25,Meridian Biotech,Southeast,New York,Assurance,Logan Tanaka,Blake Kim,On Hold,398000,2025-04-10,2024-11-01,9999-12-31,1
+4072,PRJ-925,Silverton Compliance Review FY25,Silverton Telecom,Northeast,Chicago,Advisory,Skyler Silva,Blake Ortiz,Closed,279000,2025-07-27,2024-02-01,2025-11-28,0
+4032,PRJ-1027,Lumen Systems Implementation FY26,Lumen Retail Co,Midwest,Philadelphia,Tax,Logan Ortiz,Dana Ortiz,Active,302000,2025-04-26,2025-06-01,9999-12-31,1
+4009,PRJ-1008,Atlas Valuation FY26,Atlas Freight Systems,West,Newark,Tax,Jordan Moreau,Skyler Haddad,Active,88000,2025-04-20,2025-03-01,2025-11-30,0
+4018,PRJ-1016,Redrock Valuation FY26,Redrock Mining Services,West,Chicago,Tax,Blake Weber,Finley Weber,Active,341000,2025-07-26,2025-06-01,9999-12-31,1
+4071,PRJ-924,Halcyon Cost Study FY25,Halcyon Health Partners,West,Chicago,Assurance,Emerson Haddad,Skyler Tanaka,Closed,257000,2025-03-18,2024-01-01,2025-10-28,0
+4004,PRJ-1003,Bluepeak Systems Implementation FY26,Bluepeak Logistics,Midwest,Charlotte,Assurance,Riley Novak,Morgan Okafor,Active,106000,2025-09-12,2025-12-01,9999-12-31,1
+4021,PRJ-1018,Harborview Tax Advisory FY26,Harborview Marine,Southeast,Chicago,Managed Services,Jordan Garcia,Logan Byrne,Active,344000,2025-08-13,2025-06-01,9999-12-31,1
+4010,PRJ-1008,Atlas Valuation FY26,Atlas Freight Systems,West,Charlotte,Assurance,Reese Silva,Dana Ortiz,Active,143000,2025-06-25,2025-12-01,9999-12-31,1
+4014,PRJ-1011,Fairhaven Systems Implementation FY26,Fairhaven Hospitality,Midwest,New York,Advisory,Logan Ortiz,Casey Okafor,Active,288000,2025-11-20,2025-06-01,9999-12-31,1
+4074,PRJ-927,Oakfield Valuation FY25,Oakfield Agriculture,Southeast,Philadelphia,Managed Services,Casey Larsen,Emerson Tanaka,On Hold,373000,2025-10-09,2024-11-01,9999-12-31,1
+4077,PRJ-930,Granite Cost Study FY25,Granite Peak Outfitters,Southeast,New York,Advisory,Logan Nguyen,Blake Moreau,Closed,93000,2025-05-26,2024-12-01,2025-06-28,0
+4045,PRJ-1038,Harborview Data Migration FY26,Harborview Marine,Southeast,Philadelphia,Advisory,Quinn Byrne,Rowan Byrne,Active,74000,2025-06-21,2025-12-01,9999-12-31,1
+4001,PRJ-1001,Northwind Audit FY26,Northwind Manufacturing,Northeast,Philadelphia,Managed Services,Avery Nguyen,Finley Ortiz,Active,321000,2025-12-20,2025-06-01,9999-12-31,1
+4070,PRJ-923,Northwind Systems Implementation FY25,Northwind Manufacturing,Northeast,New York,Advisory,Riley Ivanov,Dana Nguyen,Pending,58000,2025-07-11,2024-10-01,9999-12-31,1
+4038,PRJ-1032,Stonegate Valuation FY26,Stonegate Financial,West,Charlotte,Advisory,Blake Weber,Skyler Ivanov,Active,289000,2025-11-11,2025-06-01,9999-12-31,1
+4031,PRJ-1026,Ironbridge Tax Advisory FY26,Ironbridge Construction Group,Midwest,Newark,Managed Services,Harper Moreau,Jordan Novak,Active,198000,2025-03-22,2026-03-15,9999-12-31,1
+4039,PRJ-1033,Pinewood Audit FY26,Pinewood Media,Northeast,Philadelphia,Managed Services,Avery Nguyen,Blake Ortiz,Active,310000,2025-09-21,2025-06-01,9999-12-31,1
+4044,PRJ-1038,Harborview Data Migration FY26,Harborview Marine,Southeast,Charlotte,Assurance,Riley Okafor,Dana Garcia,Active,232000,2025-12-07,2025-03-01,2025-11-30,0
+4011,PRJ-1009,Meridian Audit FY26,Meridian Biotech,Northeast,Charlotte,Tax,Skyler Costa,Emerson Haddad,Active,142000,2025-11-01,2025-06-01,9999-12-31,1
+4063,PRJ-916,Cascade Data Migration FY25,Cascade Foods Group,West,Chicago,Tax,Finley Weber,Rowan Garcia,Closed,204000,2025-06-26,2024-02-01,2025-09-28,0
+4051,PRJ-904,Pinewood Cost Study FY25,Pinewood Media,West,Philadelphia,Tax,Casey Byrne,Skyler Okafor,Closed,274000,2025-04-25,2024-03-01,2025-10-28,0
+4016,PRJ-1014,Clearwater Data Migration FY26,Clearwater Utilities,Southeast,Charlotte,Managed Services,Sage Ivanov,Jordan Novak,Active,55000,2025-05-18,2025-06-01,9999-12-31,1
+4007,PRJ-1006,Ironbridge Data Migration FY26,Ironbridge Construction,Southeast,New York,Advisory,Quinn Byrne,Riley Garcia,Active,318000,2025-03-02,2025-06-01,9999-12-31,1
+4043,PRJ-1037,Brightside Compliance Review FY26,Brightside Pharmacy Group,Northeast,Philadelphia,Assurance,Casey Tanaka,Avery Kim,Active,200000,2025-05-24,2025-06-01,9999-12-31,1
+4008,PRJ-1007,Lumen Cost Study FY26,Lumen Retail Co,Midwest,Newark,Assurance,Dana Kim,Harper Byrne,Active,100000,2025-09-10,2025-06-01,9999-12-31,1
+4046,PRJ-1039,Oakfield Cost Study FY26,Oakfield Agriculture,Midwest,New York,Managed Services,Dana Kim,Morgan Costa,Active,392000,2025-08-27,2025-06-01,9999-12-31,1
+4064,PRJ-917,Ironbridge Audit FY25,Ironbridge Construction,West,Boston,Managed Services,Riley Byrne,Casey Byrne,Closed,173000,2025-09-11,2024-04-01,2025-10-28,0
+4056,PRJ-909,Atlas Systems Implementation FY25,Atlas Freight Systems,Midwest,Charlotte,Advisory,Rowan Haddad,Blake Garcia,On Hold,89000,2025-10-25,2024-08-01,9999-12-31,1
+4006,PRJ-1005,Verity Compliance Review FY26,Verity Insurance,Northeast,Boston,Managed Services,Casey Tanaka,Jordan Tanaka,Active,101000,2025-04-17,2025-06-01,9999-12-31,1
+4036,PRJ-1030,Copperline Data Migration FY26,Copperline Energy,Southeast,Newark,Assurance,Sage Ivanov,Dana Haddad,Active,342000,2025-11-13,2025-12-01,9999-12-31,1
+4040,PRJ-1034,Clearwater Tax Advisory FY26,Clearwater Utilities,Southeast,Charlotte,Assurance,Jordan Garcia,Harper Nguyen,Active,247000,2025-05-09,2025-06-01,9999-12-31,1
+4035,PRJ-1030,Copperline Data Migration FY26,Copperline Energy,Southeast,New York,Advisory,Rowan Novak,Blake Patel,Active,117000,2025-11-16,2025-03-01,2025-11-30,0
+4061,PRJ-914,Summit Compliance Review FY25,Summit Apparel,West,Charlotte,Managed Services,Casey Novak,Finley Costa,On Hold,120000,2025-01-15,2024-04-01,9999-12-31,1
+4013,PRJ-1010,Copperline Tax Advisory FY26,Copperline Energy Holdings,West,Philadelphia,Advisory,Harper Moreau,Dana Patel,Active,155000,2025-12-20,2026-03-15,9999-12-31,1
+4041,PRJ-1035,Summit Systems Implementation FY26,Summit Apparel,Midwest,Charlotte,Tax,Riley Novak,Harper Ortiz,Active,75000,2025-08-05,2025-06-01,9999-12-31,1
+4073,PRJ-926,Redrock Valuation FY25,Redrock Mining Services,Midwest,Philadelphia,Managed Services,Morgan Larsen,Reese Novak,Pending,96000,2025-04-27,2024-10-01,9999-12-31,1
+4029,PRJ-1025,Verity Audit FY26,Verity Insurance,Northeast,Boston,Assurance,Skyler Costa,Skyler Tanaka,Active,104000,2025-09-09,2025-06-01,9999-12-31,1
+4025,PRJ-1022,Cascade Data Migration FY26,Cascade Foods Group,Southeast,New York,Managed Services,Blake Costa,Blake Okafor,Active,184000,2025-01-22,2025-03-01,2025-11-30,0
+4019,PRJ-1017,Brightside Audit FY26,Brightside Pharmacy Group,Northeast,Philadelphia,Advisory,Dana Ortiz,Logan Novak,Active,92000,2025-11-13,2025-03-01,2025-11-30,0
+4002,PRJ-1002,Cascade Tax Advisory FY26,Cascade Foods Group,Southeast,Charlotte,Tax,Jordan Garcia,Avery Weber,Active,374000,2025-04-12,2025-06-01,9999-12-31,1
+4062,PRJ-915,Fairhaven Valuation FY25,Fairhaven Hospitality,Midwest,Boston,Advisory,Blake Silva,Rowan Garcia,Closed,280000,2025-12-23,2024-05-01,2025-09-28,0
+4054,PRJ-907,Oakfield Compliance Review FY25,Oakfield Agriculture,West,Charlotte,Assurance,Blake Ivanov,Rowan Garcia,Closed,336000,2025-10-07,2024-08-01,2025-12-28,0
+4023,PRJ-1020,Silverton Process Redesign FY26,Silverton Telecom,West,Philadelphia,Managed Services,Morgan Haddad,Skyler Nguyen,Active,82000,2025-05-10,2025-06-01,9999-12-31,1
+4012,PRJ-1010,Copperline Tax Advisory FY26,Copperline Energy,Southeast,New York,Tax,Harper Moreau,Sage Weber,Active,284000,2025-05-10,2025-06-01,2026-03-14,0
+4065,PRJ-918,Harborview Cost Study FY25,Harborview Marine,West,New York,Managed Services,Logan Okafor,Rowan Larsen,Closed,339000,2025-08-07,2024-09-01,2025-09-28,0
+4022,PRJ-1019,Oakfield Systems Implementation FY26,Oakfield Agriculture,Midwest,Charlotte,Assurance,Riley Novak,Skyler Weber,Active,379000,2025-04-03,2025-06-01,9999-12-31,1
+4020,PRJ-1017,Brightside Audit FY26,Brightside Pharmacy Group,Northeast,Charlotte,Advisory,Avery Nguyen,Blake Haddad,Active,316000,2025-10-06,2025-12-01,9999-12-31,1
+4033,PRJ-1028,Atlas Process Redesign FY26,Atlas Freight Systems  ,West,Charlotte,Tax,Emerson Patel,Avery Haddad,Active,288000,2025-05-04,2025-06-01,9999-12-31,1
+4003,PRJ-1003,Bluepeak Systems Implementation FY26,Bluepeak Logistics,Midwest,Chicago,Advisory,Harper Larsen,Sage Weber,Active,379000,2025-07-03,2025-03-01,2025-11-30,0
+4053,PRJ-906,Copperline Valuation FY25,Copperline Energy,Midwest,Charlotte,Managed Services,Harper Ortiz,Avery Silva,Closed,188000,2025-06-22,2024-11-01,2025-07-28,0
+4055,PRJ-908,Cascade Systems Implementation FY25,Cascade Foods Group,Northeast,Newark,Advisory,Skyler Patel,Riley Okafor,Closed,147000,2025-04-10,2024-06-01,2025-11-28,0
+4047,PRJ-1040,Silverton Valuation FY26,Silverton Telecom,West,Boston,Assurance,Reese Silva,Emerson Haddad,Active,151000,2025-01-18,2025-06-01,9999-12-31,1
+4067,PRJ-920,Meridian Audit FY25,Meridian Biotech,Southeast,Chicago,Tax,Finley Garcia,Riley Kim,Closed,47000,2025-12-12,2024-05-01,2025-06-28,0
+4027,PRJ-1023,Bluepeak Cost Study FY26,Bluepeak Logistics,Midwest,Philadelphia,Managed Services,Dana Kim,Riley Haddad,Active,151000,2025-12-16,2025-06-01,9999-12-31,1
+4059,PRJ-912,Ironbridge Process Redesign FY25,Ironbridge Construction,West,Boston,Managed Services,Dana Larsen,Finley Garcia,Pending,97000,2025-05-23,2024-09-01,9999-12-31,1
+4026,PRJ-1022,Cascade Data Migration FY26,Cascade Foods Group,Southeast,Chicago,Assurance,Quinn Byrne,Emerson Novak,Active,236000,2025-03-23,2025-12-01,9999-12-31,1
+4017,PRJ-1015,Summit Cost Study FY26,Summit Apparel,Midwest,Newark,Assurance,Finley Larsen,Reese Costa,Active,297000,2025-01-07,2025-06-01,9999-12-31,1
+4075,PRJ-928,Clearwater Audit FY25,Clearwater Utilities,Southeast,Boston,Assurance,Harper Novak,Logan Kim,Closed,92000,2025-05-11,2024-02-01,2025-09-28,0
+4049,PRJ-902,Meridian Audit FY25,Meridian Biotech,West,Philadelphia,Assurance,Jordan Okafor,Avery Weber,On Hold,200000,2025-01-23,2024-12-01,9999-12-31,1

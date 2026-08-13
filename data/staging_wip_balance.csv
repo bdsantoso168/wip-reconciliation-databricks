@@ -1,0 +1,42 @@
+project_id,project_name,client_name,region,project_manager,project_status,wip_amount,write_up_down,billed_amount,as_of_date
+PRJ-1001,Northwind Audit FY26,Northwind Manufacturing,Northeast,Avery Nguyen,Active,50592.0,0.0,0.0,2026-03-31
+PRJ-1002,Cascade Tax Advisory FY26,Cascade Foods Group,Southeast,Jordan Garcia,Active,35959.0,-1026.0,8924.0,2026-03-31
+PRJ-1003,Bluepeak Systems Implementation FY26,Bluepeak Logistics,Midwest,Riley Novak,Active,37330.0,-1505.0,15542.0,2026-03-31
+PRJ-1004,Halcyon Process Redesign FY26,Halcyon Health Partners,West,Morgan Haddad,Active,38548.0,-198.0,2778.0,2026-03-31
+PRJ-1005,Verity Compliance Review FY26,Verity Insurance,Northeast,Casey Tanaka,Active,46542.0,-2856.0,16278.0,2026-03-31
+PRJ-1006,Ironbridge Data Migration FY26,Ironbridge Construction,Southeast,Quinn Byrne,Active,33740.0,-2074.0,19400.0,2026-03-31
+PRJ-1007,Lumen Cost Study FY26,Lumen Retail Co,Midwest,Dana Kim,Active,67848.0,-449.0,18986.0,2026-03-31
+PRJ-1008,Atlas Valuation FY26,Atlas Freight Systems,West,Reese Silva,Active,31124.0,-307.0,9598.0,2026-03-31
+PRJ-1009,Meridian Audit FY26,Meridian Biotech,Northeast,Skyler Costa,Active,40166.0,-180.0,11891.0,2026-03-31
+PRJ-1010,Copperline Tax Advisory FY26,Copperline Energy,Southeast,Harper Moreau,Active,33586.0,-1074.0,20467.0,2026-03-31
+PRJ-1010,Copperline Tax Advisory FY26,Copperline Energy Holdings,West,Harper Moreau,Active,33586.0,-1074.0,20467.0,2026-03-31
+PRJ-1011,Fairhaven Systems Implementation FY26,Fairhaven Hospitality,Midwest,Logan Ortiz,Active,44053.0,-97.0,5925.0,2026-03-31
+PRJ-1012,Stonegate Process Redesign FY26,Stonegate Financial,West,Emerson Patel,Active,35070.0,-661.0,15598.0,2026-03-31
+PRJ-1014,Clearwater Data Migration FY26,Clearwater Utilities,Southeast,Sage Ivanov,Active,45127.0,-925.0,9645.0,2026-03-31
+PRJ-1015,Summit Cost Study FY26,Summit Apparel,Midwest,Finley Larsen,Active,47289.0,-1025.0,7525.0,2026-03-31
+PRJ-1016,Redrock Valuation FY26,Redrock Mining Services,West,Blake Weber,Active,32264.0,-489.0,11165.0,2026-03-31
+PRJ-1017,Brightside Audit FY26,Brightside Pharmacy Group,Northeast,Avery Nguyen,Active,43097.0,-486.0,8526.0,2026-03-31
+PRJ-1018,Harborview Tax Advisory FY26,Harborview Marine,Southeast,Jordan Garcia,Active,47192.0,-2673.0,15373.0,2026-03-31
+PRJ-1019,Oakfield Systems Implementation FY26,Oakfield Agriculture,Midwest,Riley Novak,Active,57529.0,-589.0,10958.0,2026-03-31
+PRJ-1020,Silverton Process Redesign FY26,Silverton Telecom,West,Morgan Haddad,Active,41824.0,-842.0,6402.0,2026-03-31
+PRJ-1021,Northwind Compliance Review FY26,Northwind Manufacturing,Northeast,Casey Tanaka,Active,54542.0,0.0,0.0,2026-03-31
+PRJ-1022,Cascade Data Migration FY26,Cascade Foods Group,Southeast,Quinn Byrne,Active,55173.0,-1046.0,10251.0,2026-03-31
+PRJ-1023,Bluepeak Cost Study FY26,Bluepeak Logistics,Midwest,Dana Kim,Active,37299.0,0.0,0.0,2026-03-31
+PRJ-1024,Halcyon Valuation FY26,Halcyon Health Partners,West,Reese Silva,Active,44110.0,-680.0,7260.0,2026-03-31
+PRJ-1025,Verity Audit FY26,Verity Insurance,Northeast,Skyler Costa,Active,46972.0,-831.0,10871.0,2026-03-31
+PRJ-1026,Ironbridge Tax Advisory FY26,Ironbridge Construction,Southeast,Harper Moreau,Active,49743.0,0.0,0.0,2026-03-31
+PRJ-1026,Ironbridge Tax Advisory FY26,Ironbridge Construction Group,Midwest,Harper Moreau,Active,49743.0,0.0,0.0,2026-03-31
+PRJ-1027,Lumen Systems Implementation FY26,Lumen Retail Co,Midwest,Logan Ortiz,Active,51611.0,0.0,0.0,2026-03-31
+PRJ-1028,Atlas Process Redesign FY26,Atlas Freight Systems,West,Emerson Patel,Active,48104.0,-599.0,14099.0,2026-03-31
+PRJ-1029,Meridian Compliance Review FY26,Meridian Biotech,Northeast,Rowan Okafor,Active,66040.0,-1545.0,17159.0,2026-03-31
+PRJ-1030,Copperline Data Migration FY26,Copperline Energy,Southeast,Sage Ivanov,Active,47691.0,-484.0,6013.0,2026-03-31
+PRJ-1031,Fairhaven Cost Study FY26,Fairhaven Hospitality,Midwest,Finley Larsen,Active,38682.0,-184.0,6076.0,2026-03-31
+PRJ-1032,Stonegate Valuation FY26,Stonegate Financial,West,Blake Weber,Active,42767.0,-436.0,9756.0,2026-03-31
+PRJ-1033,Pinewood Audit FY26,Pinewood Media,Northeast,Avery Nguyen,Active,35004.0,-2047.0,18739.0,2026-03-31
+PRJ-1034,Clearwater Tax Advisory FY26,Clearwater Utilities,Southeast,Jordan Garcia,Active,38288.0,-98.0,6741.0,2026-03-31
+PRJ-1035,Summit Systems Implementation FY26,Summit Apparel,Midwest,Riley Novak,Active,46392.0,-896.0,7196.0,2026-03-31
+PRJ-1036,Redrock Process Redesign FY26,Redrock Mining Services,West,Morgan Haddad,Active,58331.0,-137.0,4467.0,2026-03-31
+PRJ-1037,Brightside Compliance Review FY26,Brightside Pharmacy Group,Northeast,Casey Tanaka,Active,41575.0,0.0,0.0,2026-03-31
+PRJ-1038,Harborview Data Migration FY26,Harborview Marine,Southeast,Quinn Byrne,Active,41981.0,0.0,0.0,2026-03-31
+PRJ-1039,Oakfield Cost Study FY26,Oakfield Agriculture,Midwest,Dana Kim,Active,30418.0,0.0,0.0,2026-03-31
+PRJ-1040,Silverton Valuation FY26,Silverton Telecom,West,Reese Silva,Active,42703.0,-767.0,18362.0,2026-03-31
